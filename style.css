@@ -43,7 +43,7 @@ nav{
 }
 #first-box{
     background: url(./assets/image\ 1.png) rgba(52, 52, 52, 0.99) no-repeat right;
-    height: 70%;
+    height: 700px;
     display: flex;
     align-items: center;
 }
@@ -297,7 +297,8 @@ nav{
         padding: 0;
     }
     #box2 figure img{
-        width: 80%;
+        max-width: 100%;
+        width: 700px;
     }
 }
 
